@@ -2,8 +2,10 @@
 
 Requires [iOS OpenFrameworks 0.10.0](https://openframeworks.cc/download/) & [ofxARKit](https://github.com/sortofsleepy/ofxARKit).
 
-This example includes:
+Note: this is fork of my [ofxARKit facetracking example](https://github.com/AndresCuervo/ofxARKit-example-facetracking).
 
-| two modes you can tap to change  | face normals |
-| ------------- | ------------- |
-| ![Example of mode switching](example-GIFs/switching_modes.gif)  | ![Example of ARKit normals](example-GIFs/adding_normals.gif) |
+### Sound sample sources:
+
+- [https://freesound.org/people/funisfun8/sounds/332172/](https://freesound.org/people/funisfun8/sounds/332172/)
+- [https://freesound.org/people/TheAtomicBrain/sounds/351879/](https://freesound.org/people/TheAtomicBrain/sounds/351879/)
+- [https://freesound.org/people/jgreer/sounds/333629/](https://freesound.org/people/jgreer/sounds/333629/)
